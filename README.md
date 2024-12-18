@@ -34,7 +34,7 @@ The form allows you to:
 - Basic knowledge of HTML, CSS (Bootstrap), JavaScript, and AJAX.
 
 ## Setup and Installation
-
 1. **Clone the Repository:**
    ```bash
-   
+   git clone https://github.com/rituparna-sarkar/JPDB-Student-Enrollment-Form.git
+
