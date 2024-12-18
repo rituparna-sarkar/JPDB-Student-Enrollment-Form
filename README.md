@@ -3,8 +3,6 @@
 This repository contains a simple **Student Enrollment Form** built using HTML, Bootstrap, and jQuery. It integrates with a **JSONPowerDB (JPDB)** backend to perform basic Create, Read, and Update operations for student records.
 
 <img width="1440" alt="Screenshot 2024-12-18 at 12 12 49 PM" src="https://github.com/user-attachments/assets/7e41bc07-6be8-41d2-b610-1b3a2beb6fa1" />
-
-
 ## Overview
 
 The form allows you to:
